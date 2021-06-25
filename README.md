@@ -2,6 +2,8 @@
 This website can help you extract colors from images, so you can test and explore to find the perfect color pallete for your website. Also you can generate your own custom 
 pallete.
 
+[Live Demo](http://colorxo.surge.sh/)
+
 
 # Tech Stack used:
 - Pure HTML, CSS, Javascript
